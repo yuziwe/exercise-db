@@ -4,7 +4,7 @@
 
     <application
         android:name=".ExerciseDbApplication"
-        android:allowBackup="true"
+        android:allowBackup="false"
         android:icon="@drawable/ic_app"
         android:label="@string/app_name"
         android:supportsRtl="true"

@@ -26,7 +26,7 @@ data class Exercise(
 
     companion object {
         const val MEDIA_BASE_URL =
-            "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/"
+            "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/7455efae41b330c265e7cd4b78dfa848e7ce5ebd/"
     }
 }
 

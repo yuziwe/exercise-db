@@ -1,0 +1,6 @@
+# Release and build integrity
+/.github/workflows/ @yuziwe
+/app/build.gradle.kts @yuziwe
+/build.gradle.kts @yuziwe
+/settings.gradle.kts @yuziwe
+/gradle/wrapper/ @yuziwe
